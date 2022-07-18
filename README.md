@@ -1,4 +1,4 @@
-###  Graduate work on UI testing for labirint.ru (https://www.labirint.ru/)
+###  Graduate work on UI testing for labirint (https://www.labirint.ru/)
 ---
 
 <a id="anchor"></a>
