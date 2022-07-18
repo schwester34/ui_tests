@@ -10,6 +10,9 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# Properties files
+*.properties
+
 # Package Files #
 *.jar
 *.war
@@ -18,6 +21,7 @@
 *.zip
 *.tar.gz
 *.rar
+*.iml
 
 # Project gen files
 .idea
