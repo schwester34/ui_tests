@@ -16,6 +16,7 @@
 
 
 :toolbox:__Technologies and tools__
+
 ![Java](https://user-images.githubusercontent.com/99205353/176089306-25bd3a87-d157-44e7-8dce-9b78c46903b3.png)
 ![Gradle](https://user-images.githubusercontent.com/99205353/176089337-996bd879-5d6e-4dce-a92d-f5baa997009d.png)
 ![Intelij_IDEA](https://user-images.githubusercontent.com/99205353/176089342-13de613d-5aa5-45b2-b355-8ebf8879c4e2.png)
