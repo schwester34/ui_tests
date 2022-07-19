@@ -12,5 +12,4 @@ public class CabinetPage {
     public void checkSocAuthBlock() {
         socBlock.shouldHave(Condition.text("Другие способы входа"));
     }
-
 }
