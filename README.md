@@ -29,11 +29,11 @@
 __Test cases__
 
 - [ ] Check that search works
-- [ ] Check basket
-- [ ] Check school
-- [ ] Check cabinet
-- [ ] Page title should have header text 'Лабиринт | Книжный интернет-магазин: купить книги, новинки, бестселлеры'
-- [ ] Check help search works correct
+- [ ] Сheck that the book is being added to basket
+- [ ] Check that the textbooks open in the School section
+- [ ] Check that cabinet is opened
+- [ ] Check that page title should have header text 'Лабиринт | Книжный интернет-магазин: купить книги, новинки, бестселлеры'
+- [ ] Check that help search works correct
 
 ---
 :toolbox: __Build in Jenkins__
