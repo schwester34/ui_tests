@@ -32,7 +32,7 @@ __Test cases__
 - [ ] Сheck that the book is being added to basket
 - [ ] Check that the textbooks open in the School section
 - [ ] Check that cabinet is opened
-- [ ] Check that page title should have header text 'Лабиринт | Книжный интернет-магазин: купить книги, новинки, бестселлеры'
+- [ ] Check that page title have header text 'Лабиринт | Книжный интернет-магазин: купить книги, новинки, бестселлеры'
 - [ ] Check that help search works correct
 
 ---
