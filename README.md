@@ -26,7 +26,7 @@
 ![AllureTestOps](https://user-images.githubusercontent.com/99205353/178306928-b4276a60-726c-4017-b3c3-adc0da7c890a.png)
 
 ---
-__Test cases__
+:toolbox:__Test cases__
 
 - [ ] Check that search works
 - [ ] Сheck that the book is being added to basket
