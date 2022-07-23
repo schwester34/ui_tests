@@ -13,7 +13,6 @@ import static tests.TestData.*;
 public class Tests extends TestBase {
 
     @Test
-    @Description("Searching a book")
     @DisplayName("Check that search works")
     void searchBook() {
         step("Search book", () -> {
@@ -25,7 +24,6 @@ public class Tests extends TestBase {
     }
 
     @Test
-    @Description("Adding book to basket")
     @DisplayName("Check basket")
     void generatedTest() {
         step("Search crime and punishment book", () -> {
@@ -40,7 +38,6 @@ public class Tests extends TestBase {
     }
 
     @Test
-    @Description("Opening school")
     @DisplayName("Check school")
     void checkSchool() {
         step("Go to textbooks", () -> {
@@ -52,7 +49,6 @@ public class Tests extends TestBase {
     }
 
     @Test
-    @Description("Opening cabinet")
     @DisplayName("Check cabinet")
     void checkCabinet() {
         step("Go to cabinet", () -> {
@@ -64,7 +60,6 @@ public class Tests extends TestBase {
     }
 
     @Test
-    @Description("Check title")
     @DisplayName("Page title should have header text")
     void titleTest() {
         step("Page title should have text 'Лабиринт | Книжный интернет-магазин: купить книги, новинки, бестселлеры'", () -> {
@@ -75,7 +70,6 @@ public class Tests extends TestBase {
 
 
     @Test
-    @Description("Check searching")
     @DisplayName("Check help search works correct")
     void checkSearchHelp() {
         step("Go to help", () -> {
