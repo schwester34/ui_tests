@@ -16,7 +16,7 @@ public class SearchPage {
 
     public void resultofSearch(String book) {
         searchTopTitle.shouldHave(Condition.text("Все, что мы нашли в Лабиринте\n" +
-                "            по запросу «" + book + "»"));
+                "   по запросу «" + book + "»"));
     }
 
     public void addBooktoBasket() {
